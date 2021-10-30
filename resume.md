@@ -79,6 +79,7 @@ Performing some UI work for Singularity, and helping the studio transition to Ca
 ---
 ## Education
 **Full Sail University / Associates & Bachelor’s - Game Design & Development**
+
 _February 2003 - December 2004,  Orlando, FL_
 
 Studied Game Design and Development for 14 months, February ‘03 to April ‘04, completing game projects as an individual and several as a team. Bachelor’s Completion Program seven month course load to obtain Bachelor’s Degree after completing the Associate’s Program, May ‘04 to December ‘04.
